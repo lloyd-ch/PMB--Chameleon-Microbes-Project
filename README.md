@@ -1,4 +1,4 @@
-# PMB--Human-Metagenomics-Project
+# PMB--Chameleon-Microbes-Project
 Repository for all files and data for the class project for Predictive Modeling in Biomedicine
 
 ## Project Documentation
