@@ -8,11 +8,11 @@ Repository for all files and data for the class project for Predictive Modeling 
 ## Code Documentation
 - Colab Notebook for BodyMeta EDA code [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18H6YYW4MFanuwL_uIhLYaoVusugR4Mgo#scrollTo=gAuRkBPXfh3_)
 - Colab Notebok for Feature Matrix [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fXduIPRCZYJFCvgMqrBuHQ996HWPX-IU#scrollTo=-fNc2Hr9BUMh)
-### Phase 1
+### Phase 1: Simple Models
 - Colab Notebook for Phase 1: Classification Task [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t8ShHu7t7pPuaSGmJgsOGFZWtOpvpUQH#scrollTo=cgpjgwVmAVjt)
 - Colab Notebook for Phase 1: Ordinal Classification Task [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pxR6C_pCowjKLqioji5y5Yb6W1--tfUB)
 - Colab Notebook for Phase 1: Clustering Task [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1omYs6cfhmp_oIjwznTEViiskh6QIGrNz)
-### Phase 2
+### Phase 2: Complex Models
 - Colab Notebook for Phase 2: Classification Task [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aCD4JqBddopoi7qr0QoJkdBOhZbMKTRs)
 - Colab Notebook for Phase 2: Ordinal Classification Task [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YwNCSqCxAX6AkvjiNH-ql4SLDXVO7_z5)
 - Colab Notebook for Phase 2: Clustering Task [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KGaLiGEtUB8vEFfu-Ihy90iphZel5rxz)
