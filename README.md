@@ -13,9 +13,9 @@ Repository for all files and data for the class project for Predictive Modeling 
 - Colab Notebook for Phase 1: Ordinal Classification Task [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pxR6C_pCowjKLqioji5y5Yb6W1--tfUB)
 - Colab Notebook for Phase 1: Clustering Task [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1omYs6cfhmp_oIjwznTEViiskh6QIGrNz)
 ### Phase 2
-- Colab Notebook for Phase 2: Classification Task
-- Colab Notebook for Phase 2: Ordinal Classification Task
-- Colab Notebook for Phase 2: Clustering Task
+- Colab Notebook for Phase 2: Classification Task [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YwNCSqCxAX6AkvjiNH-ql4SLDXVO7_z5)
+- Colab Notebook for Phase 2: Ordinal Classification Task [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YwNCSqCxAX6AkvjiNH-ql4SLDXVO7_z5)
+- Colab Notebook for Phase 2: Clustering Task [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YwNCSqCxAX6AkvjiNH-ql4SLDXVO7_z5)
 - 
 ## ML MASTER DATASET: The dataset for this project is available as a downloadable attachment in the **Releases** section of this repository. (1.7M associations)
 ## ML FEATURE MATRIX: The feature matrix for this project is available as a downloadable attachment in the **Releases** section of this repository. (7,763 rows)
