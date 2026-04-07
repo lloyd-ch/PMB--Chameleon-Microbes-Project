@@ -16,7 +16,7 @@ Repository for all files and data for the class project for Predictive Modeling 
 - Colab Notebook for Phase 2: Classification Task [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aCD4JqBddopoi7qr0QoJkdBOhZbMKTRs)
 - Colab Notebook for Phase 2: Ordinal Classification Task [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YwNCSqCxAX6AkvjiNH-ql4SLDXVO7_z5)
 - Colab Notebook for Phase 2: Clustering Task [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KGaLiGEtUB8vEFfu-Ihy90iphZel5rxz)
-- 
+  
 ## ML MASTER DATASET: The dataset for this project is available as a downloadable attachment in the **Releases** section of this repository. (1.7M associations)
 ## ML FEATURE MATRIX: The feature matrix for this project is available as a downloadable attachment in the **Releases** section of this repository. (7,763 rows)
 
